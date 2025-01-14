@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Keerti%20Joshi/Documents/Jupyter%20notebooks/mlruns/676307245769287090/48d663caf1474faab30b6d1d4cd2c39f/artifacts
+end_time: 1736871317449
+entry_point_name: ''
+experiment_id: '676307245769287090'
+lifecycle_stage: active
+run_id: 48d663caf1474faab30b6d1d4cd2c39f
+run_name: kNN
+run_uuid: 48d663caf1474faab30b6d1d4cd2c39f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736871316775
+status: 4
+tags: []
+user_id: Keerti Joshi
